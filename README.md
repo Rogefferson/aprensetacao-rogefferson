@@ -1,2 +1,2 @@
 # aprensetacao-rogefferson
-Este repositório contém arquivos de exemplo, recursos e informações sobre o curso feito na alura de HTML e CSS(Flexbox)
+Este repositório contém arquivos do projeto onde fizemos um exemplo de landpage no curso da alura de html e css(flexbox)
